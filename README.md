@@ -8,9 +8,7 @@
   <h3 align="center">Fitness Tracker </h3>
 
   <p align="center">
-    This app utilizes MongoDB and the Mongoose library so a user can track their fitness info. Click 
-    [![here](https://floating-depths-72079.herokuapp.com/)] to view the deployed app.
-
+    This app utilizes MongoDB and the Mongoose library so a user can track their fitness info. 
     <br />
     <a href="https://github.com/marandaz/fitnessTracker"><strong>Explore the docs »</strong></a>
     <br />
@@ -39,11 +37,9 @@
 ## About The Project
 ![Fitness Gif](./public/assets/fitness.gif) 
 
+This is a workout tracker that allows a user to create and track daily workouts. They can log many exercises in a workout on a given day, track by name, type, weight, sets, distance, etc. 
 
-This command-line application uses node, inquierer and MySQL to manage a comanpy's employees. It allows a user to:
-* Add departments, roles, employees
-* View departments, roles, employees
-* Update employee roles
+ Click [here](https://floating-depths-72079.herokuapp.com/) to view the deployed app.
 
 ## Installation
 
