@@ -8,7 +8,7 @@
   <h3 align="center">Fitness Tracker </h3>
 
   <p align="center">
-    A solution architected for managing a company's employees.
+    This app utilizes MongoDB and the Mongoose library so a user can track their fitness info. Click here to view the deployed app.
     <br />
     <a href="https://github.com/marandaz/fitnessTracker"><strong>Explore the docs »</strong></a>
     <br />
@@ -55,15 +55,14 @@ git clone https://github.com/marandaz/fitnessTracker.git
 ```sh
 npm install
 ```
-
-
+3. Run seed data
+```sh
+npm run seed
+```
+ 
 ## Usage
-
- To use this, you will need to use node.js, inquirer and mySQL. Once running, you are able to view, add, remove and update users within the database. 
-
-<br>
-
-[Click here to view video](https://youtu.be/CF7363VYIIY)
+ 
+To use this application, you need to install dependencies using node.js and run seed data during development/initial set up. This app uses mongoose to create, read, and update fitness info. Mongoose is also used to create a schema for the data so we have data to add to the MondoDB.
 
 
 ## Contributing
@@ -83,10 +82,10 @@ Distributed under the MIT License.
 
 ## Contact
 
-Your Name - mrzwies@gmail.com
+Maranda Zwieschowsi - mrzwies@gmail.com
 
 Project Link: [https://github.com/marandaz/fitnessTracker](https://github.com/marandaz/fitnessTracker)
 
 ## Acknowledgements
 
-* **My Instructor** Shout out to my Bootcamp instructor, John Young, for helping pave the path to a brighter future. 
+* **My Instructor:** Shout out to my Bootcamp instructor, John Young, for helping pave the path to a brighter future. 
