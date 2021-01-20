@@ -8,7 +8,9 @@
   <h3 align="center">Fitness Tracker </h3>
 
   <p align="center">
-    This app utilizes MongoDB and the Mongoose library so a user can track their fitness info. Click [here](https://floating-depths-72079.herokuapp.com/) to view the deployed app.
+    This app utilizes MongoDB and the Mongoose library so a user can track their fitness info. Click 
+    [![here](https://floating-depths-72079.herokuapp.com/)] to view the deployed app.
+
     <br />
     <a href="https://github.com/marandaz/fitnessTracker"><strong>Explore the docs »</strong></a>
     <br />
